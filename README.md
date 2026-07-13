@@ -93,6 +93,8 @@ Migrated Unigen's legacy PHP monolith to a **Next.js + Node.js** architecture â€
 
 <img src="https://github-profile-trophy.vercel.app/?username=lettorevii&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
+
+
 </div>
 
 ---
@@ -104,13 +106,13 @@ Migrated Unigen's legacy PHP monolith to a **Next.js + Node.js** architecture â€
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salih-semih-akg%C3%BCl/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihsemihfb@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lettorevii)
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 *Building things that ship â€” from LLM pipelines to production dashboards.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=150&section=footer" width="100%"/>
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 </div>
