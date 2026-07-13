@@ -109,4 +109,8 @@ Migrated Unigen's legacy PHP monolith to a **Next.js + Node.js** architecture â€
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=150&section=footer" width="100%"/>
 
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 </div>
