@@ -78,17 +78,7 @@ Migrated Unigen's legacy PHP monolith to a **Next.js + Node.js** architecture â€
 
 ---
 
-## ðŸ“Š GitHub Stats
 
-<div align="center">
-
-<table>
-<tr>
->
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lettorevii&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
 
 
 
@@ -111,6 +101,8 @@ Migrated Unigen's legacy PHP monolith to a **Next.js + Node.js** architecture â€
 
 
 
-
+![snake gif](https://github.com/lettorevii/lettorevii/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lettorevii/lettorevii/blob/output/github-contribution-grid-snake.gif)
 
 </div>
+![snake gif](https://github.com/lettorevii/lettorevii/blob/output/github-contribution-grid-snake.gif)
