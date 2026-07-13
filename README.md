@@ -22,7 +22,7 @@ Mid-level **AI Engineer & Full Stack Developer** with 3+ years shipping end-to-e
 
 <div align="center">
 
-| 🚀 3+ Years Experience | 🧩 5+ AI Services Unified | ⏱️ 60% Faster Onboarding | 🛠️ 30% Less Downtime |
+| 🚀 3+ Years Experience | 🧩 20+ AI Services Unified | ⏱️ 60% Faster Onboarding | 🛠️ 30% Less Downtime |
 |:---:|:---:|:---:|:---:|
 
 </div>
